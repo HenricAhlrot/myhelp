@@ -13,4 +13,4 @@ CONTENTS
 
     - :wall : Save all modified buffers
     - :x    : Save buffer only if modified, then exit (better than :wq)
-
+    - gg=G  : Fixes the indentation in the entire file
